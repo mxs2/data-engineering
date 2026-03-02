@@ -1,0 +1,9 @@
+# HTTP
+requests==2.32.3
+
+# Data Science e Análise de Dados
+numpy==2.2.3
+pandas==2.2.3
+
+# Notebooks
+jupyter==1.1.1
