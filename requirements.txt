@@ -1,13 +1,19 @@
-# HTTP
-requests==2.32.3
-
 # Data Science e Análise de Dados
 numpy==2.2.3
 pandas==2.2.3
 
-# Notebooks
-jupyter==1.1.1
-
 # Formatação de Código
 black==26.3.1
 black[jupyter]==26.3.1
+
+# HTTP
+requests==2.32.3
+
+# Jupyter
+jupyter==1.1.1
+
+# MongoDB
+pymongo==4.16.0
+
+# Python Dotenv
+python-dotenv==1.2.2
